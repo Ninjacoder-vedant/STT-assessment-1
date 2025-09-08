@@ -1,5 +1,0 @@
-nohup: ignoring input
-Traceback (most recent call last):
-  File "/mnt/d/Sem 5/STT-CSE/Labs/Lab 4/main.py", line 2, in <module>
-    from pydriller import Repository
-ModuleNotFoundError: No module named 'pydriller'
